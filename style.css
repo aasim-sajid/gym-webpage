@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+body {
+    background-color: WHITE;
+}
+.navbar {
+    height: 65px;
+    background-color: rgb(49, 255, 87);
+    margin-top: -17px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    
+
+}
+.nav-logo {
+    width: 400px;
+    height: 60px;
+}
+.logo {
+    width: 400px;
+    height: 60px;
+    background-image: url("need-and-fitness-club-high-resolution-logo-transparent\ \(1\).png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+
+}
+.main {
+    display: flex;
+    font-size: 17px;
+    font-weight: 600;
+}
+#icon {
+    margin-left: 5px;
+}
+#menu {
+    margin-right: 5px;
+}
+.hero {
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+.hero-img {
+    height: 500px;
+    width: 1425px;
+    background-image: url("hero-pic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover ;
+    
+    
+}
+
+.shopping {
+    
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 1425px;
+    background-color: #caf9d2;
+    
+}
+.box {
+    height: 300px;
+    width: 23%;
+    background-color: white;
+    
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+
+}
+#dukan {
+    height: 300px;
+    width: 300px;
+    
+
+}
+
+.three {
+    margin-bottom: 30px;
+    
+}
+footer {
+    height: 220px;
+    width: 1425px;
+    background-color: rgb(49, 255, 87);
+    border: 2px solid black;
+}
+.last {
+    display: flex;
+    margin-top: 20px;
+
+    justify-content: center;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    
+}
+.about {
+    margin-top: 20px;
+}
+.icon {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    
+}
+.icon a{
+    margin-top: 40px;
+    margin-left: 20px;
+    
+}
+#you {
+    color: rgb(212, 6, 6);
+}
+#what {
+    color: rgb(2, 95, 2);
+}
+#twi {
+    color: black;
+}
+#insta {
+    color: rgb(102, 4, 102);
+}
+.last-logo {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.loggo {
+    width: 400px;
+    height: 100px;
+    background-image: url("need-and-fitness-club-high-resolution-logo-transparent\ \(1\).png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    
+}
+.last-msg {
+    background-color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    
+}
+.m1 {
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+
+}
